@@ -22,7 +22,7 @@
 ### 步骤
 
 1. 从 [Releases](../../releases) 下载最新 APK
-2. 安装 APK 到设备：`adb install USBManager-vX.Y.Z-release.apk`
+2. 安装 APK 到设备
 3. 打开 **LSPosed Manager** → 模块列表 → 勾选 **USBManager**
 4. **作用域**：勾选 `system`（系统框架）
 5. 重启 System UI 或重启设备
@@ -111,3 +111,8 @@ A: 模块维护 APP 数据库和 system_server 本地缓存双副本，修改后
 
 本项目使用木兰公共许可证，第 2 版（Mulan PubL v2）。
 完整授权见 [LICENSE](https://license.coscl.org.cn/MulanPubL-2.0)。
+
+## 源码与发布
+- 源码仓库：https://github.com/TigerSpirit217/USBManager
+- 发布页面：https://github.com/TigerSpirit217/USBManager/releases
+- 反馈Issues：https://github.com/TigerSpirit217/USBManager/issues
